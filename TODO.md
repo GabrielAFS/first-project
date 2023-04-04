@@ -1,0 +1,15 @@
+- TODO:
+  - criar owner module
+    - first name
+    - last name
+    - cats
+    - email
+  - criar doctor module
+    - first name
+    - last name
+    - crv
+  - criar appointment module
+    - doctor
+    - cat
+    - scheduled_date
+    - price

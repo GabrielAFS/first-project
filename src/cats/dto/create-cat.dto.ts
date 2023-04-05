@@ -3,4 +3,5 @@ export class CreateCatDto {
   age: number;
   breed: string;
   weight: number;
+  owner: string;
 }

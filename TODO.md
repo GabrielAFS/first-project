@@ -1,9 +1,5 @@
 - TODO:
-  - criar owner module
-    - first name
-    - last name
-    - cats
-    - email
+  [x] criar owner module
   - criar doctor module
     - first name
     - last name
